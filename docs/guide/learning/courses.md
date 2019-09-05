@@ -119,3 +119,18 @@ The video series starts by building the Vue app from scratch and then moving it 
 
 </useful-links-section>
 </useful-links>
+
+## Quasar Framework: Vue.js Cross Platform App
+**Author:** Danny Connell
+
+A 10-part Youtube video series that, while serving as an introduction to his Udemy course, provide plenty of free content (~5 hours worth!) on how to get started with Vue.js & Quasar.
+
+Watch Danny build the Awesome Todo app, and answer the questions "What is Quasar?" & "What is Vue.js?" & more.
+
+<useful-links>
+<useful-links-section title="Official">
+
+[YouTube](https://www.youtube.com/playlist?list=PLAiDzIdBfy8iu_MZrq3IPuSFcRgCQ0iL0)
+
+</useful-links-section>
+</useful-links>
